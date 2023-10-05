@@ -1,0 +1,48 @@
+.recipe-card-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 20px;
+  padding: 20px;
+}
+
+/* Style individual recipe cards */
+.recipe-card {
+  position: relative;
+  width: 300px;
+  height: 200px;
+  border: 1px solid #ddd;
+  padding: 16px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
+  margin-bottom: 16px;
+}
+
+.recipe-card-img {
+  width: 300px;
+  height: auto;
+}
+
+.recipe-card-title {
+  text-align: center;
+  justify-content: center;
+  padding: 10px;
+  font-size: 18px;
+}
+
+.recipe-card-text {
+  font-size: 14px;
+  margin-top: 8px;
+}
+
+.recipe-time-icon {
+  position: relative;
+  top: -30px;
+  left: 215px;
+}
+
+/* Adjust the layout for smaller screens */
+@media (max-width: 768px) {
+  .recipe-card {
+    width: 100%; /* Full width for small screens */
+  }
+}

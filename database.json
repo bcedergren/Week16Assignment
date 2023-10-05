@@ -1,0 +1,882 @@
+{
+  "recipes": [
+    {
+      "title": "Spaghetti Carbonara",
+      "ingredients": [
+        "200g spaghetti",
+        "100g pancetta or guanciale, diced",
+        "2 large eggs",
+        "50g Pecorino Romano cheese, grated",
+        "50g Parmesan cheese, grated",
+        "2 cloves garlic, minced",
+        "Salt and black pepper to taste",
+        "Fresh parsley, chopped (for garnish)"
+      ],
+      "instructions": [
+        "Cook the spaghetti according to package instructions until al dente. Drain and set aside.",
+        "In a pan, sauté the diced pancetta or guanciale until crispy. Add minced garlic and cook briefly.",
+        "In a bowl, whisk together the eggs, grated Pecorino Romano, and Parmesan cheese. Season with black pepper.",
+        "Combine the cooked spaghetti with the pancetta mixture. Remove from heat and quickly pour the egg and cheese mixture over the pasta. Toss well to coat.",
+        "Serve immediately, garnished with chopped fresh parsley."
+      ],
+      "estimatedTime": "35",
+      "rating": 5,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "Chicken Alfredo",
+      "estimatedTime": "35",
+      "rating": 4.3,
+      "ingredients": [
+        "8 oz fettuccine pasta",
+        "2 boneless, skinless chicken breasts, cut into strips",
+        "2 cups heavy cream",
+        "1/2 cup grated Parmesan cheese",
+        "4 cloves garlic, minced",
+        "2 tablespoons butter",
+        "Salt and black pepper to taste",
+        "Chopped parsley (for garnish)"
+      ],
+      "instructions": [
+        "Cook the fettuccine pasta according to package instructions. Drain and set aside.",
+        "Season the chicken strips with salt and black pepper.",
+        "In a skillet, melt the butter over medium-high heat. Add the chicken and cook until no longer pink. Remove the chicken from the skillet and set aside.",
+        "In the same skillet, add minced garlic and cook briefly. Pour in the heavy cream and grated Parmesan cheese. Stir until the sauce thickens.",
+        "Return the cooked chicken to the skillet and simmer for a few minutes.",
+        "Serve the chicken Alfredo over the cooked fettuccine. Garnish with chopped parsley."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Classic Margherita Pizza",
+      "estimatedTime": "20",
+      "rating": 4.6,
+      "ingredients": [
+        "Pizza dough",
+        "1/2 cup tomato sauce",
+        "1 1/2 cups fresh mozzarella cheese, sliced",
+        "Fresh basil leaves",
+        "Olive oil",
+        "Salt and black pepper to taste"
+      ],
+      "instructions": [
+        "Preheat your oven to 475°F (245°C).",
+        "Roll out the pizza dough into a thin round crust.",
+        "Spread the tomato sauce evenly over the dough, leaving a small border around the edges.",
+        "Arrange the sliced mozzarella cheese over the sauce.",
+        "Bake in the preheated oven until the crust is golden and the cheese is bubbly, about 10-12 minutes.",
+        "Remove from the oven, top with fresh basil leaves, drizzle with olive oil, and season with salt and black pepper."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Beef and Broccoli Stir-Fry",
+      "estimatedTime": "25",
+      "rating": 4.4,
+      "ingredients": [
+        "1 lb flank steak, thinly sliced",
+        "2 cups broccoli florets",
+        "1/2 cup soy sauce",
+        "3 cloves garlic, minced",
+        "2 tablespoons brown sugar",
+        "1 tablespoon cornstarch",
+        "1 teaspoon sesame oil",
+        "Cooking oil for stir-frying"
+      ],
+      "instructions": [
+        "In a bowl, whisk together soy sauce, minced garlic, brown sugar, cornstarch, and sesame oil to make the sauce.",
+        "Heat cooking oil in a wok or large skillet over high heat.",
+        "Add the thinly sliced flank steak and stir-fry until browned. Remove from the pan and set aside.",
+        "In the same pan, add a bit more oil if needed and stir-fry the broccoli florets until tender.",
+        "Return the cooked beef to the pan, and pour the sauce over. Stir-fry until the sauce thickens and coats the beef and broccoli.",
+        "Serve hot over steamed rice."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Chicken Parmesan",
+      "estimatedTime": "40",
+      "rating": 4.5,
+      "ingredients": [
+        "4 boneless, skinless chicken breasts",
+        "1 cup breadcrumbs",
+        "1 cup marinara sauce",
+        "1 1/2 cups shredded mozzarella cheese",
+        "1/2 cup grated Parmesan cheese",
+        "1 egg, beaten",
+        "2 tablespoons olive oil",
+        "Salt and black pepper to taste",
+        "Fresh basil leaves (for garnish)"
+      ],
+      "instructions": [
+        "Preheat your oven to 375°F (190°C).",
+        "Season the chicken breasts with salt and black pepper.",
+        "Dip each chicken breast into beaten egg, then coat with breadcrumbs.",
+        "In a large ovenproof skillet, heat olive oil over medium-high heat. Add the breaded chicken breasts and cook until golden on both sides.",
+        "Pour marinara sauce over the chicken breasts, top with shredded mozzarella and grated Parmesan cheese.",
+        "Transfer the skillet to the preheated oven and bake until the cheese is melted and bubbly, about 20 minutes.",
+        "Garnish with fresh basil leaves before serving."
+      ]
+    },
+    {
+      "title": "Vegetable Lasagna",
+      "ingredients": [
+        "9 lasagna noodles, cooked",
+        "2 cups ricotta cheese",
+        "1 1/2 cups shredded mozzarella cheese",
+        "1/2 cup grated Parmesan cheese",
+        "2 cups marinara sauce",
+        "2 cups mixed vegetables (e.g., spinach, bell peppers, mushrooms)",
+        "2 cloves garlic, minced",
+        "1 teaspoon dried basil",
+        "Salt and black pepper to taste"
+      ],
+      "instructions": [
+        "Preheat your oven to 375°F (190°C).",
+        "In a large skillet, sauté the minced garlic and mixed vegetables until tender.",
+        "In a mixing bowl, combine ricotta, 1 cup mozzarella, and 1/4 cup Parmesan cheese. Season with dried basil, salt, and black pepper.",
+        "Spread a small amount of marinara sauce in the bottom of a baking dish.",
+        "Layer with 3 cooked lasagna noodles, half of the ricotta mixture, half of the sautéed vegetables, and some marinara sauce. Repeat the layers.",
+        "Top with the remaining 3 lasagna noodles, marinara sauce, and the remaining mozzarella and Parmesan cheese.",
+        "Bake in the preheated oven until bubbly and golden, about 30 minutes.",
+        "Let it rest for a few minutes before serving."
+      ],
+      "estimatedTime": "45",
+      "rating": 2,
+      "id": 6
+    },
+    {
+      "id": 7,
+      "title": "Teriyaki Salmon",
+      "estimatedTime": "35",
+      "rating": 4.6,
+      "ingredients": [
+        "4 salmon fillets",
+        "1/4 cup soy sauce",
+        "2 tablespoons honey",
+        "2 tablespoons rice vinegar",
+        "1 clove garlic, minced",
+        "1 teaspoon ginger, minced",
+        "Sesame seeds and chopped green onions (for garnish)"
+      ],
+      "instructions": [
+        "In a bowl, whisk together soy sauce, honey, rice vinegar, minced garlic, and minced ginger to make the teriyaki sauce.",
+        "Place salmon fillets in a shallow dish and pour half of the teriyaki sauce over them. Marinate for 15 minutes.",
+        "Preheat your grill or skillet over medium-high heat. Brush with oil to prevent sticking.",
+        "Grill the salmon fillets for about 4-5 minutes per side, basting with the marinade, until cooked to your desired doneness.",
+        "Serve hot, garnished with sesame seeds and chopped green onions."
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Garlic Butter Shrimp",
+      "estimatedTime": "20",
+      "rating": 4.7,
+      "ingredients": [
+        "1 lb large shrimp, peeled and deveined",
+        "4 cloves garlic, minced",
+        "2 tablespoons butter",
+        "1 tablespoon olive oil",
+        "1 tablespoon lemon juice",
+        "Fresh parsley, chopped (for garnish)",
+        "Salt and black pepper to taste"
+      ],
+      "instructions": [
+        "Season the shrimp with salt, black pepper, and minced garlic.",
+        "In a skillet, heat olive oil and butter over medium-high heat.",
+        "Add the seasoned shrimp and cook for about 2-3 minutes per side until they turn pink and opaque.",
+        "Squeeze lemon juice over the shrimp and garnish with chopped fresh parsley.",
+        "Serve immediately."
+      ]
+    },
+    {
+      "title": "Spinach and Feta Stuffed Chicken Breast",
+      "ingredients": [
+        "4 boneless, skinless chicken breasts",
+        "2 cups fresh spinach",
+        "1/2 cup crumbled feta cheese",
+        "2 cloves garlic, minced",
+        "1 teaspoon dried oregano",
+        "Olive oil",
+        "Salt and black pepper to taste"
+      ],
+      "instructions": [
+        "Preheat your oven to 375°F (190°C).",
+        "In a skillet, heat a bit of olive oil over medium heat. Add minced garlic and sauté until fragrant.",
+        "Add fresh spinach and cook until wilted. Remove from heat and stir in crumbled feta cheese and dried oregano.",
+        "Slice a pocket into each chicken breast and stuff with the spinach and feta mixture.",
+        "Season the outside of the chicken breasts with salt and black pepper.",
+        "In the same skillet, heat more olive oil over medium-high heat. Add the stuffed chicken breasts and sear until golden on both sides.",
+        "Transfer the skillet to the preheated oven and bake for about 20 minutes or until the chicken is cooked through.",
+        "Serve hot."
+      ],
+      "estimatedTime": "40",
+      "rating": 4.3,
+      "id": 9
+    },
+    {
+      "id": 10,
+      "title": "Beef Tacos",
+      "estimatedTime": "25",
+      "rating": 4.4,
+      "ingredients": [
+        "1 lb ground beef",
+        "1 packet taco seasoning",
+        "8 small taco shells or tortillas",
+        "1 cup shredded lettuce",
+        "1 cup diced tomatoes",
+        "1/2 cup shredded cheddar cheese",
+        "1/4 cup diced onions",
+        "Sour cream and salsa (optional, for serving)"
+      ],
+      "instructions": [
+        "In a skillet, cook the ground beef over medium heat until browned. Drain any excess fat.",
+        "Stir in the taco seasoning and follow the package instructions for seasoning the beef.",
+        "Warm the taco shells or tortillas according to package instructions.",
+        "Assemble the tacos by filling each shell with seasoned ground beef, shredded lettuce, diced tomatoes, shredded cheddar cheese, and diced onions.",
+        "Serve with sour cream and salsa if desired."
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Creamy Tomato Basil Soup",
+      "estimatedTime": "30",
+      "rating": 4.5,
+      "ingredients": [
+        "2 cans (28 oz each) crushed tomatoes",
+        "1 cup heavy cream",
+        "1/4 cup fresh basil leaves",
+        "2 cloves garlic, minced",
+        "1 onion, chopped",
+        "2 tablespoons butter",
+        "2 tablespoons olive oil",
+        "Salt and black pepper to taste"
+      ],
+      "instructions": [
+        "In a large pot, heat butter and olive oil over medium heat. Add minced garlic and chopped onion. Sauté until the onion is translucent.",
+        "Add crushed tomatoes and fresh basil leaves to the pot. Season with salt and black pepper. Bring to a simmer.",
+        "Using an immersion blender, puree the soup until smooth. Alternatively, transfer the soup to a blender to puree, then return it to the pot.",
+        "Stir in heavy cream and heat the soup until warmed through.",
+        "Serve hot, garnished with additional basil leaves if desired."
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Beef Stroganoff",
+      "estimatedTime": "40",
+      "rating": 4.4,
+      "ingredients": [
+        "1 lb beef sirloin, thinly sliced",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 cup sliced mushrooms",
+        "1 cup beef broth",
+        "1 cup sour cream",
+        "2 tablespoons flour",
+        "2 tablespoons butter",
+        "2 tablespoons olive oil",
+        "1 teaspoon paprika",
+        "Salt and black pepper to taste",
+        "Cooked egg noodles or rice (for serving)"
+      ],
+      "instructions": [
+        "In a large skillet, heat olive oil and butter over medium-high heat. Add sliced beef and cook until browned. Remove the beef from the skillet and set aside.",
+        "In the same skillet, add chopped onion and minced garlic. Sauté until the onion is translucent.",
+        "Add sliced mushrooms and cook until they release their moisture and become tender.",
+        "Sprinkle flour and paprika over the mushroom mixture. Stir to combine.",
+        "Gradually pour in beef broth while stirring. Cook until the mixture thickens.",
+        "Return the cooked beef to the skillet and simmer for a few minutes.",
+        "Stir in sour cream and heat until warmed through. Season with salt and black pepper.",
+        "Serve over cooked egg noodles or rice."
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Chicken Alfredo",
+      "rating": 4.6,
+      "estimatedTime": "35",
+      "ingredients": [
+        "8 oz fettuccine pasta",
+        "2 boneless, skinless chicken breasts",
+        "2 tablespoons olive oil",
+        "2 cloves garlic, minced",
+        "1 cup heavy cream",
+        "1/2 cup grated Parmesan cheese",
+        "Salt and black pepper to taste",
+        "Chopped fresh parsley (for garnish)"
+      ],
+      "instructions": [
+        "Cook the fettuccine pasta according to package instructions. Drain and set aside.",
+        "Season chicken breasts with salt and black pepper. In a skillet, heat olive oil over medium-high heat. Cook chicken until no longer pink and juices run clear, about 5 minutes per side. Remove from skillet and slice.",
+        "In the same skillet, add minced garlic and sauté briefly. Pour in heavy cream and Parmesan cheese. Cook, stirring constantly, until the sauce thickens.",
+        "Toss cooked fettuccine with the Alfredo sauce. Serve topped with sliced chicken and garnish with chopped fresh parsley."
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Beef and Broccoli Stir-Fry",
+      "rating": 4.5,
+      "estimatedTime": "25",
+      "ingredients": [
+        "1 lb flank steak, thinly sliced",
+        "2 cups broccoli florets",
+        "1/4 cup soy sauce",
+        "2 tablespoons brown sugar",
+        "2 cloves garlic, minced",
+        "1 teaspoon ginger, minced",
+        "1 tablespoon cornstarch",
+        "2 tablespoons vegetable oil"
+      ],
+      "instructions": [
+        "In a bowl, whisk together soy sauce, brown sugar, minced garlic, minced ginger, and cornstarch to make the sauce.",
+        "Heat vegetable oil in a wok or large skillet over high heat.",
+        "Add thinly sliced flank steak and stir-fry until browned. Remove from the pan and set aside.",
+        "In the same pan, add a bit more oil if needed and stir-fry the broccoli florets until tender.",
+        "Return the cooked beef to the pan, and pour the sauce over. Stir-fry until the sauce thickens and coats the beef and broccoli.",
+        "Serve hot over steamed rice."
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Chicken Parmesan",
+      "rating": 4.4,
+      "estimatedTime": "40",
+      "ingredients": [
+        "4 boneless, skinless chicken breasts",
+        "1 cup breadcrumbs",
+        "1 cup marinara sauce",
+        "1 1/2 cups shredded mozzarella cheese",
+        "1/2 cup grated Parmesan cheese",
+        "1 egg, beaten",
+        "2 tablespoons olive oil",
+        "Salt and black pepper to taste",
+        "Fresh basil leaves (for garnish)"
+      ],
+      "instructions": [
+        "Preheat your oven to 375°F (190°C).",
+        "Season the chicken breasts with salt and black pepper.",
+        "Dip each chicken breast into beaten egg, then coat with breadcrumbs.",
+        "In a large ovenproof skillet, heat olive oil over medium-high heat. Add the breaded chicken breasts and cook until golden on both sides.",
+        "Pour marinara sauce over the chicken breasts, top with shredded mozzarella and grated Parmesan cheese.",
+        "Transfer the skillet to the preheated oven and bake until the cheese is melted and bubbly, about 20 minutes.",
+        "Garnish with fresh basil leaves before serving."
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Vegetable Lasagna",
+      "rating": 4.6,
+      "estimatedTime": "60",
+      "ingredients": [
+        "9 lasagna noodles, cooked",
+        "2 cups ricotta cheese",
+        "1 1/2 cups shredded mozzarella cheese",
+        "1/2 cup grated Parmesan cheese",
+        "2 cups marinara sauce",
+        "2 cups mixed vegetables (e.g., spinach, bell peppers, mushrooms)",
+        "2 cloves garlic, minced",
+        "1 teaspoon dried basil",
+        "Salt and black pepper to taste"
+      ],
+      "instructions": [
+        "Preheat your oven to 375°F (190°C).",
+        "In a large skillet, sauté the minced garlic and mixed vegetables until tender.",
+        "In a mixing bowl, combine ricotta, 1 cup mozzarella, and 1/4 cup Parmesan cheese. Season with dried basil, salt, and black pepper.",
+        "Spread a small amount of marinara sauce in the bottom of a baking dish.",
+        "Layer with 3 lasagna noodles, half of the ricotta mixture, half of the vegetable mixture, and 1/2 cup mozzarella.",
+        "Repeat the layers, then top with the remaining 3 lasagna noodles, marinara sauce, and the remaining mozzarella and Parmesan cheese.",
+        "Cover with foil and bake for 30 minutes. Remove the foil and bake for an additional 10 minutes until bubbly and golden.",
+        "Let it rest for a few minutes before serving."
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Shrimp Scampi",
+      "rating": 4.7,
+      "estimatedTime": "20",
+      "ingredients": [
+        "1 lb large shrimp, peeled and deveined",
+        "8 oz linguine pasta",
+        "4 cloves garlic, minced",
+        "1/4 cup white wine",
+        "2 tablespoons fresh lemon juice",
+        "2 tablespoons chopped fresh parsley",
+        "4 tablespoons butter",
+        "2 tablespoons olive oil",
+        "Salt and black pepper to taste"
+      ],
+      "instructions": [
+        "Cook linguine pasta according to package instructions. Drain and set aside.",
+        "Season shrimp with salt and black pepper.",
+        "In a large skillet, heat olive oil and 2 tablespoons of butter over medium-high heat. Add shrimp and cook until pink, about 2 minutes per side. Remove from skillet and set aside.",
+        "In the same skillet, add minced garlic and sauté briefly. Add white wine and lemon juice, and bring to a simmer. Cook for a couple of minutes.",
+        "Stir in the cooked linguine, remaining butter, and chopped parsley. Toss until the pasta is coated in the sauce.",
+        "Return the cooked shrimp to the skillet and toss to combine. Serve hot."
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Mushroom Risotto",
+      "rating": 4.4,
+      "estimatedTime": "45",
+      "ingredients": [
+        "1 1/2 cups Arborio rice",
+        "8 oz mushrooms, sliced",
+        "4 cups chicken or vegetable broth, heated",
+        "1 cup dry white wine",
+        "1 onion, finely chopped",
+        "2 cloves garlic, minced",
+        "1/2 cup grated Parmesan cheese",
+        "2 tablespoons butter",
+        "2 tablespoons olive oil",
+        "Salt and black pepper to taste"
+      ],
+      "instructions": [
+        "In a large skillet, heat olive oil and 1 tablespoon of butter over medium heat. Add chopped onions and garlic, and sauté until translucent.",
+        "Add Arborio rice and cook, stirring, until the rice is slightly translucent at the edges.",
+        "Pour in the white wine and cook until it's mostly absorbed by the rice.",
+        "Begin adding the heated broth, one ladle at a time, stirring constantly and allowing each addition to be absorbed before adding more. Continue this process until the rice is creamy and tender, about 20 minutes.",
+        "Stir in the sliced mushrooms and cook until they are tender.",
+        "Remove from heat and stir in grated Parmesan cheese and remaining butter. Season with salt and black pepper.",
+        "Let it rest for a few minutes before serving."
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Spinach and Feta Stuffed Chicken Breast",
+      "rating": 4.5,
+      "estimatedTime": "40",
+      "ingredients": [
+        "4 boneless, skinless chicken breasts",
+        "2 cups fresh spinach leaves",
+        "1/2 cup crumbled feta cheese",
+        "1/4 cup sun-dried tomatoes, chopped",
+        "2 cloves garlic, minced",
+        "1 tablespoon olive oil",
+        "Salt and black pepper to taste",
+        "Toothpicks"
+      ],
+      "instructions": [
+        "Preheat your oven to 375°F (190°C).",
+        "In a skillet, heat olive oil over medium heat. Add minced garlic and sauté until fragrant.",
+        "Add fresh spinach leaves and cook until wilted. Remove from heat.",
+        "Make a pocket in each chicken breast by slicing horizontally, being careful not to cut all the way through.",
+        "Stuff each chicken breast with wilted spinach, crumbled feta cheese, and chopped sun-dried tomatoes. Secure with toothpicks.",
+        "Season the stuffed chicken breasts with salt and black pepper.",
+        "In an ovenproof skillet, heat a bit of olive oil over medium-high heat. Sear the stuffed chicken breasts until golden on both sides.",
+        "Transfer the skillet to the preheated oven and bake for about 20 minutes or until the chicken is cooked through.",
+        "Remove the toothpicks before serving."
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Pasta Primavera",
+      "rating": 4.6,
+      "estimatedTime": "30",
+      "ingredients": [
+        "8 oz penne pasta",
+        "2 cups mixed vegetables (e.g., bell peppers, cherry tomatoes, zucchini)",
+        "2 cloves garlic, minced",
+        "1/4 cup grated Parmesan cheese",
+        "2 tablespoons olive oil",
+        "2 tablespoons fresh basil, chopped",
+        "Salt and black pepper to taste"
+      ],
+      "instructions": [
+        "Cook penne pasta according to package instructions. Drain and set aside.",
+        "In a large skillet, heat olive oil over medium heat. Add minced garlic and sauté briefly.",
+        "Add mixed vegetables and sauté until tender.",
+        "Toss cooked penne pasta with the sautéed vegetables.",
+        "Stir in grated Parmesan cheese and chopped fresh basil. Season with salt and black pepper.",
+        "Serve hot."
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Spaghetti Carbonara",
+      "rating": 4.7,
+      "estimatedTime": "25",
+      "ingredients": [
+        "8 oz spaghetti",
+        "2 eggs",
+        "1 cup grated Parmesan cheese",
+        "4 oz pancetta or bacon, diced",
+        "2 cloves garlic, minced",
+        "2 tablespoons fresh parsley, chopped",
+        "Salt and black pepper to taste"
+      ],
+      "instructions": [
+        "Cook spaghetti according to package instructions. Drain and set aside.",
+        "In a bowl, whisk together eggs, grated Parmesan cheese, and chopped fresh parsley. Season with salt and black pepper.",
+        "In a skillet, cook diced pancetta or bacon until crispy. Remove from skillet and set aside.",
+        "In the same skillet, add minced garlic and sauté briefly.",
+        "Toss the cooked spaghetti with the egg and cheese mixture in a large bowl. The heat from the pasta will cook the eggs and create a creamy sauce.",
+        "Top with crispy pancetta or bacon. Serve hot."
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Honey Garlic Shrimp",
+      "rating": 4.6,
+      "estimatedTime": "15",
+      "ingredients": [
+        "1 lb large shrimp, peeled and deveined",
+        "1/4 cup honey",
+        "3 cloves garlic, minced",
+        "2 tablespoons soy sauce",
+        "1 tablespoon olive oil",
+        "Chopped green onions (for garnish)",
+        "Sesame seeds (for garnish)",
+        "Cooked rice (for serving)"
+      ],
+      "instructions": [
+        "In a bowl, whisk together honey, minced garlic, and soy sauce to make the sauce.",
+        "Heat olive oil in a large skillet over medium-high heat. Add shrimp and cook until pink, about 2 minutes per side.",
+        "Pour the honey garlic sauce over the cooked shrimp and toss to coat.",
+        "Serve hot over cooked rice, garnished with chopped green onions and sesame seeds."
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Mango Chicken Curry",
+      "rating": 4.5,
+      "estimatedTime": "35",
+      "ingredients": [
+        "2 boneless, skinless chicken breasts, cut into cubes",
+        "1 ripe mango, peeled and diced",
+        "1 onion, finely chopped",
+        "2 cloves garlic, minced",
+        "1 can (14 oz) coconut milk",
+        "2 tablespoons red curry paste",
+        "2 tablespoons vegetable oil",
+        "1 tablespoon fish sauce",
+        "1 tablespoon brown sugar",
+        "Fresh cilantro leaves (for garnish)",
+        "Cooked rice (for serving)"
+      ],
+      "instructions": [
+        "In a large skillet, heat vegetable oil over medium-high heat. Add chopped onions and minced garlic. Sauté until fragrant and onions are translucent.",
+        "Add red curry paste and cook for a minute until fragrant.",
+        "Add chicken cubes and cook until they are no longer pink.",
+        "Pour in coconut milk and stir to combine. Bring to a simmer.",
+        "Add diced mango, fish sauce, and brown sugar. Simmer until the chicken is cooked through and the sauce has thickened.",
+        "Serve hot over cooked rice, garnished with fresh cilantro leaves."
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Vegetarian Chili",
+      "rating": 4.4,
+      "estimatedTime": "30",
+      "ingredients": [
+        "1 can (15 oz) black beans, drained and rinsed",
+        "1 can (15 oz) kidney beans, drained and rinsed",
+        "1 can (15 oz) diced tomatoes",
+        "1 cup corn kernels",
+        "1 onion, chopped",
+        "2 cloves garlic, minced",
+        "1 bell pepper, chopped",
+        "1 zucchini, chopped",
+        "2 tablespoons chili powder",
+        "1 teaspoon cumin",
+        "Salt and black pepper to taste",
+        "Shredded cheddar cheese (for garnish)",
+        "Sour cream (for garnish)",
+        "Chopped green onions (for garnish)"
+      ],
+      "instructions": [
+        "In a large pot, heat olive oil over medium heat. Add chopped onions and minced garlic. Sauté until onions are translucent.",
+        "Add chopped bell pepper and zucchini. Cook until they begin to soften.",
+        "Stir in black beans, kidney beans, diced tomatoes, and corn kernels.",
+        "Season with chili powder, cumin, salt, and black pepper. Simmer for about 20 minutes.",
+        "Serve hot, garnished with shredded cheddar cheese, sour cream, and chopped green onions."
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Lemon Garlic Butter Shrimp Pasta",
+      "rating": 4.6,
+      "estimatedTime": "25",
+      "ingredients": [
+        "8 oz linguine pasta",
+        "1 lb large shrimp, peeled and deveined",
+        "4 cloves garlic, minced",
+        "1/4 cup fresh lemon juice",
+        "1/4 cup chicken broth",
+        "2 tablespoons butter",
+        "2 tablespoons olive oil",
+        "Fresh parsley, chopped (for garnish)",
+        "Salt and black pepper to taste"
+      ],
+      "instructions": [
+        "Cook linguine pasta according to package instructions. Drain and set aside.",
+        "Season shrimp with salt and black pepper.",
+        "In a large skillet, heat olive oil and 1 tablespoon of butter over medium-high heat. Add shrimp and cook until pink, about 2 minutes per side. Remove from skillet and set aside.",
+        "In the same skillet, add minced garlic and sauté briefly. Add chicken broth and fresh lemon juice, and bring to a simmer. Cook for a couple of minutes.",
+        "Stir in the cooked linguine, remaining butter, and chopped fresh parsley. Toss until the pasta is coated in the sauce.",
+        "Return the cooked shrimp to the skillet and toss to combine. Serve hot."
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Caprese Salad",
+      "rating": 4.8,
+      "estimatedTime": "10",
+      "ingredients": [
+        "4 ripe tomatoes, sliced",
+        "8 oz fresh mozzarella cheese, sliced",
+        "1/4 cup fresh basil leaves",
+        "2 tablespoons extra-virgin olive oil",
+        "Balsamic glaze (optional)",
+        "Salt and black pepper to taste"
+      ],
+      "instructions": [
+        "Arrange alternating slices of tomato and mozzarella on a serving platter.",
+        "Tuck fresh basil leaves between the slices.",
+        "Drizzle extra-virgin olive oil over the salad.",
+        "Season with salt and black pepper.",
+        "For extra flavor, drizzle with balsamic glaze if desired.",
+        "Serve immediately."
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Chicken Alfredo",
+      "rating": 4.7,
+      "estimatedTime": "30",
+      "ingredients": [
+        "8 oz fettuccine pasta",
+        "2 boneless, skinless chicken breasts",
+        "2 tablespoons olive oil",
+        "2 cloves garlic, minced",
+        "1 cup heavy cream",
+        "1/2 cup grated Parmesan cheese",
+        "2 tablespoons butter",
+        "Salt and black pepper to taste",
+        "Chopped parsley (for garnish)"
+      ],
+      "instructions": [
+        "Cook fettuccine pasta according to package instructions. Drain and set aside.",
+        "Season chicken breasts with salt and black pepper.",
+        "In a large skillet, heat olive oil over medium-high heat. Add chicken breasts and cook until no longer pink and cooked through, about 6 minutes per side. Remove from skillet and set aside.",
+        "In the same skillet, add minced garlic and sauté briefly. Add heavy cream and bring to a simmer. Cook for a couple of minutes.",
+        "Stir in grated Parmesan cheese and butter. Continue to cook, stirring, until the sauce thickens.",
+        "Slice the cooked chicken breasts and add them to the sauce. Toss to combine.",
+        "Serve the chicken Alfredo over cooked fettuccine pasta, garnished with chopped parsley."
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Quinoa Salad with Chickpeas and Avocado",
+      "rating": 4.5,
+      "estimatedTime": "20",
+      "ingredients": [
+        "1 cup quinoa, cooked and cooled",
+        "1 can (15 oz) chickpeas, drained and rinsed",
+        "1 avocado, diced",
+        "1 cucumber, diced",
+        "1/2 red onion, finely chopped",
+        "1/4 cup fresh cilantro, chopped",
+        "2 tablespoons extra-virgin olive oil",
+        "2 tablespoons lemon juice",
+        "Salt and black pepper to taste"
+      ],
+      "instructions": [
+        "In a large bowl, combine cooked quinoa, chickpeas, diced avocado, diced cucumber, finely chopped red onion, and chopped fresh cilantro.",
+        "In a small bowl, whisk together extra-virgin olive oil and lemon juice to make the dressing.",
+        "Drizzle the dressing over the salad and toss to combine.",
+        "Season with salt and black pepper.",
+        "Serve chilled."
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Garlic Butter Roasted Brussels Sprouts",
+      "rating": 4.4,
+      "estimatedTime": "35",
+      "ingredients": [
+        "1 lb Brussels sprouts, trimmed and halved",
+        "3 cloves garlic, minced",
+        "2 tablespoons butter, melted",
+        "2 tablespoons olive oil",
+        "Salt and black pepper to taste",
+        "Grated Parmesan cheese (optional)"
+      ],
+      "instructions": [
+        "Preheat your oven to 400°F (200°C).",
+        "In a large bowl, combine halved Brussels sprouts and minced garlic.",
+        "Drizzle melted butter and olive oil over the Brussels sprouts. Toss to coat.",
+        "Spread the Brussels sprouts on a baking sheet in a single layer.",
+        "Season with salt and black pepper.",
+        "Roast in the preheated oven for about 25-30 minutes or until the Brussels sprouts are tender and caramelized.",
+        "If desired, sprinkle with grated Parmesan cheese before serving."
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Vegetable Stir-Fry",
+      "rating": 4.6,
+      "estimatedTime": "20",
+      "ingredients": [
+        "2 cups mixed vegetables (e.g., bell peppers, broccoli, carrots, snap peas)",
+        "1 tablespoon vegetable oil",
+        "2 cloves garlic, minced",
+        "1/4 cup soy sauce",
+        "1 tablespoon honey",
+        "1 teaspoon cornstarch",
+        "Cooked rice (for serving)"
+      ],
+      "instructions": [
+        "In a wok or large skillet, heat vegetable oil over high heat.",
+        "Add minced garlic and stir-fry for about 30 seconds.",
+        "Add mixed vegetables and stir-fry until they are tender-crisp, about 5-7 minutes.",
+        "In a small bowl, whisk together soy sauce, honey, and cornstarch to make the sauce.",
+        "Pour the sauce over the vegetables and stir-fry for another 2-3 minutes or until the sauce thickens.",
+        "Serve hot over cooked rice."
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Lemon Herb Grilled Chicken",
+      "rating": 4.7,
+      "estimatedTime": "30",
+      "ingredients": [
+        "4 boneless, skinless chicken breasts",
+        "2 lemons, juiced and zested",
+        "2 cloves garlic, minced",
+        "2 tablespoons fresh herbs (e.g., rosemary, thyme, oregano), chopped",
+        "2 tablespoons olive oil",
+        "Salt and black pepper to taste"
+      ],
+      "instructions": [
+        "In a bowl, combine lemon juice, lemon zest, minced garlic, chopped fresh herbs, olive oil, salt, and black pepper to make the marinade.",
+        "Place chicken breasts in a resealable plastic bag or a shallow dish. Pour the marinade over the chicken and seal the bag or cover the dish. Marinate in the refrigerator for at least 15 minutes, or up to 4 hours.",
+        "Preheat your grill to medium-high heat.",
+        "Remove chicken from the marinade and grill for about 6-8 minutes per side, or until the chicken is cooked through and has grill marks.",
+        "Serve hot."
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Spinach and Feta Stuffed Chicken Breast",
+      "rating": 4.6,
+      "estimatedTime": "40",
+      "ingredients": [
+        "4 boneless, skinless chicken breasts",
+        "2 cups fresh spinach leaves",
+        "1/2 cup crumbled feta cheese",
+        "2 cloves garlic, minced",
+        "1 tablespoon olive oil",
+        "Salt and black pepper to taste",
+        "Toothpicks (for securing)"
+      ],
+      "instructions": [
+        "Preheat your oven to 375°F (190°C).",
+        "In a skillet, heat olive oil over medium heat. Add minced garlic and sauté briefly until fragrant.",
+        "Add fresh spinach leaves and cook until wilted. Remove from heat.",
+        "Make a pocket in each chicken breast by slicing horizontally through the thickest part of the breast, being careful not to cut all the way through.",
+        "Stuff each chicken breast with wilted spinach and crumbled feta cheese. Secure with toothpicks.",
+        "Season chicken breasts with salt and black pepper.",
+        "Place stuffed chicken breasts in a baking dish and bake in the preheated oven for about 25-30 minutes, or until the chicken is cooked through.",
+        "Remove toothpicks before serving."
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Homemade Margherita Pizza",
+      "rating": 4.8,
+      "estimatedTime": "30",
+      "ingredients": [
+        "1 pizza dough, homemade or store-bought",
+        "1/2 cup pizza sauce",
+        "8 oz fresh mozzarella cheese, sliced",
+        "2 ripe tomatoes, sliced",
+        "Fresh basil leaves",
+        "2 tablespoons olive oil",
+        "Salt and black pepper to taste"
+      ],
+      "instructions": [
+        "Preheat your oven to the highest temperature it can go (usually around 500°F or 260°C).",
+        "Roll out the pizza dough on a floured surface to your desired thickness.",
+        "Transfer the dough to a pizza stone or baking sheet.",
+        "Spread pizza sauce evenly over the dough.",
+        "Arrange sliced tomatoes and fresh mozzarella cheese on top of the sauce.",
+        "Season with salt and black pepper.",
+        "Drizzle olive oil over the pizza.",
+        "Bake in the preheated oven for about 10-12 minutes or until the crust is golden and the cheese is bubbly and slightly browned.",
+        "Remove from the oven and top with fresh basil leaves before serving."
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Beef and Broccoli Stir-Fry",
+      "rating": 4.6,
+      "estimatedTime": "25",
+      "ingredients": [
+        "1 lb flank steak, thinly sliced",
+        "2 cups broccoli florets",
+        "1/4 cup soy sauce",
+        "2 tablespoons brown sugar",
+        "2 cloves garlic, minced",
+        "1 tablespoon cornstarch",
+        "1 tablespoon vegetable oil",
+        "Cooked rice (for serving)"
+      ],
+      "instructions": [
+        "In a bowl, whisk together soy sauce, brown sugar, minced garlic, and cornstarch to make the sauce.",
+        "In a large skillet or wok, heat vegetable oil over high heat.",
+        "Add thinly sliced flank steak and stir-fry until browned, about 2-3 minutes. Remove from skillet and set aside.",
+        "In the same skillet, add broccoli florets and stir-fry for about 2-3 minutes until tender-crisp.",
+        "Return the cooked beef to the skillet and pour the sauce over the beef and broccoli. Stir-fry for another 2-3 minutes or until the sauce thickens.",
+        "Serve hot over cooked rice."
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Pasta Primavera",
+      "rating": 4.5,
+      "estimatedTime": "30",
+      "ingredients": [
+        "8 oz penne pasta",
+        "2 cups mixed vegetables (e.g., bell peppers, cherry tomatoes, zucchini)",
+        "2 cloves garlic, minced",
+        "2 tablespoons olive oil",
+        "1/4 cup grated Parmesan cheese",
+        "Fresh basil leaves (for garnish)",
+        "Salt and black pepper to taste"
+      ],
+      "instructions": [
+        "Cook penne pasta according to package instructions. Drain and set aside.",
+        "In a large skillet, heat olive oil over medium-high heat. Add minced garlic and sauté briefly.",
+        "Add mixed vegetables and cook until they are tender-crisp, about 5-7 minutes.",
+        "Stir in cooked penne pasta and grated Parmesan cheese. Toss to combine.",
+        "Season with salt and black pepper.",
+        "Garnish with fresh basil leaves and serve."
+      ]
+    },
+    {
+      "id": 36,
+      "title": "Honey Mustard Glazed Salmon",
+      "rating": 4,
+      "estimatedTime": "20",
+      "ingredients": [
+        "4 salmon fillets",
+        "1/4 cup Dijon mustard",
+        "2 tablespoons honey",
+        "1 tablespoon olive oil",
+        "1 tablespoon lemon juice",
+        "1 clove garlic, minced",
+        "Salt and black pepper to taste"
+      ],
+      "instructions": [
+        "Preheat your oven to 375°F (190°C).",
+        "In a bowl, whisk together Dijon mustard, honey, olive oil, lemon juice, minced garlic, salt, and black pepper to make the glaze.",
+        "Place salmon fillets on a baking sheet lined with parchment paper.",
+        "Brush the salmon fillets with the honey mustard glaze.",
+        "Bake in the preheated oven for about 12-15 minutes or until the salmon flakes easily with a fork.",
+        "Serve hot."
+      ]
+    }
+  ]
+}

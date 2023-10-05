@@ -1,0 +1,13 @@
+.stars {
+  font-size: 32px;
+}
+
+.star {
+  color: #ccc; /* Color of empty stars */
+  margin-right: 5px; /* Adjust the spacing between stars */
+  cursor: pointer; /* Add pointer cursor style */
+}
+
+.star.filled {
+  color: #f7d000; /* Color of filled stars */
+}
